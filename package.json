@@ -1,0 +1,19 @@
+{
+  "name": "mark625-mark-sheet-generator",
+  "version": "1.0.0",
+  "description": "A program that generates a marksheet based on your subjects numbers.",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shayan-Umer",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
